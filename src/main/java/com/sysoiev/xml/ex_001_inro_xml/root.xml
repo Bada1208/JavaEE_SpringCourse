@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+
+    <table>
+
+        <tr>
+            <td>Apples</td>
+            <td>Bananas</td>
+        </tr>
+
+    </table>
+
+    <table>
+        <name>Affrican Coffee Table</name>
+        <width>120</width>
+        <length>80</length>
+    </table>
+
+
+</root>

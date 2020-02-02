@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+
+    <h:table xmlns:h="http://www.w3.org/TR/html5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.w3.org/TR/html5 ">
+
+        <h:tr>
+            <h:td>Apples</h:td>
+            <h:td>Bananas</h:td>
+        </h:tr>
+
+    </h:table>
+
+    <f:table xmlns:f="http://www.link.co.rs/furniture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.link.co.rs/furniture ">
+        <f:name>Affrican Coffee Table</f:name>
+        <f:width>120</f:width>
+        <f:length>80</f:length>
+    </f:table>
+
+
+</root>
